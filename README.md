@@ -34,7 +34,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 ---
 # 🛠️ Tools & Library Used
-<img src="https://github.com/Rahulswamy3005/Maven-Movies-Analysis/blob/2cafe8a4f4e5d7b07eebafb623dcba0b3cc1b263/logo.png" alt="Images/TOOL.jpeg" width="200"/> &nbsp;
+<img src="https://github.com/Rahulswamy3005/Maven-Movies-Analysis/blob/378e325a1ab0b2268086cb9fba3d60784b871215/product-vendors-mysql.png" alt="Images/TOOL.jpeg" width="200"/> &nbsp;
 
 # Project Result
 
