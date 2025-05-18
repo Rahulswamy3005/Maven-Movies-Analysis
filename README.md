@@ -38,6 +38,6 @@ Highlight gaps in the inventory and optimize stock levels.
 
 # Project Result
 
-[Click here to get full code](https://github.com/Omgadakhgithub/-Maven-Movies-Insights/blob/main/Movies%20Analysis%20and%20Codes.sql)
+[Click here to get full code](https://github.com/Rahulswamy3005/Maven-Movies-Analysis/blob/main/Movies%20Analysis%20And%20Codes.sql)
 
 
